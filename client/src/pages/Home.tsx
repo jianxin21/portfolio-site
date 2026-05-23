@@ -58,10 +58,12 @@ const experiences = [
     location: "Singapore",
     color: AMBER,
     points: [
-      "Contributed to development and maintenance of client websites using HTML, CSS, JavaScript, and CMS platforms such as WordPress.",
-      "Collaborated with the front-end team to create user-friendly website interfaces with responsive design principles.",
-      "Collaborated with clients to collect and format content for accurate and timely publication.",
-      "Provided technical assistance to clients, guiding them on using CMS platforms independently.",
+      "Designed and implemented business application solutions aligned with organizational and business process requirements.",
+      "Managed full Software Development Life Cycle (SDLC), including development, testing, deployment, and support.",
+      "Collaborated with clients to collect and format content for accurate and timely publicationDeveloped and maintained SQL queries and stored procedures for system functionality and data processing.",
+      "Collaborated with cross-functional teams, business users, and ERP/non-ERP stakeholders on project requirements.",
+      "Provided post-implementation support and troubleshooting to ensure smooth system operations.",
+      "Evaluated and enhanced system performance, reliability, usability, and overall functionality through continuous improvements.",
     ],
   },
   {
